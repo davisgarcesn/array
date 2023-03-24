@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1679678121 source:c:\users\davis\desktop\practica\file_handler\main.c
+	"resource.h"
+	"resource.c"
+
+1679678981 c:\users\davis\desktop\practica\file_handler\resource.h
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+
+1679678889 c:\users\davis\desktop\practica\file_handler\resource.c
+	"resource.h"
+
+1679678889 source:c:\users\davis\desktop\practica\file_handler\resource.c
+	"resource.h"
+
